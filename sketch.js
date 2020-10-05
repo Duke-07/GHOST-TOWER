@@ -28,7 +28,7 @@ function setup(){
   doorGroup = new Group();
   climberGroup = new Group();
   iClimberGroup = new Group();
-  //song.loop();
+  song.loop();
 }
 
 function draw(){
